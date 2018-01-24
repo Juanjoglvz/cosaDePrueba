@@ -1,6 +1,7 @@
 def helloworld():
     print("Helloworld ma nigga!!")
-    print("otro print")
+    x = 3 + 5
+    print(x)
 
 
 if __name__ == "__main__":
